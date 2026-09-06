@@ -1,0 +1,6 @@
+{
+  "name": "Ally Impex",
+  "description": "Manufacturer & Exporter of Premium Motorcycle Protective Gear, Kevlar Garments, Cordura Apparel, Leather Wear, and Custom B2B Export Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
